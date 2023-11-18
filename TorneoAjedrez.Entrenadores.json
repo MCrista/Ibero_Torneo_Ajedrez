@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6558d990ed9513b91ee82d2f"
+  },
+  "_id_Entrenador": 100,
+  "Nombre_Entrenador": "Juan Garcia Martinez",
+  "Edad_Entrenador": 35
+},
+{
+  "_id": {
+    "$oid": "6558d990ed9513b91ee82d30"
+  },
+  "_id_Entrenador": 101,
+  "Nombre_Entrenador": "Carlos Lopez Rodriguez",
+  "Edad_Entrenador": 42
+},
+{
+  "_id": {
+    "$oid": "6558d990ed9513b91ee82d31"
+  },
+  "_id_Entrenador": 102,
+  "Nombre_Entrenador": "Laura Gomez Fernandez",
+  "Edad_Entrenador": 50
+},
+{
+  "_id": {
+    "$oid": "6558d990ed9513b91ee82d32"
+  },
+  "_id_Entrenador": 103,
+  "Nombre_Entrenador": "Maria Perez Sanchez",
+  "Edad_Entrenador": 28
+},
+{
+  "_id": {
+    "$oid": "6558d990ed9513b91ee82d33"
+  },
+  "_id_Entrenador": 104,
+  "Nombre_Entrenador": "Andres Ramirez Torres",
+  "Edad_Entrenador": 32
+},
+{
+  "_id": {
+    "$oid": "6558d990ed9513b91ee82d34"
+  },
+  "_id_Entrenador": 105,
+  "Nombre_Entrenador": "Ana Gonzalez Ruiz",
+  "Edad_Entrenador": 45
+},
+{
+  "_id": {
+    "$oid": "6558d990ed9513b91ee82d35"
+  },
+  "_id_Entrenador": 106,
+  "Nombre_Entrenador": "Javier Hernandez Diaz",
+  "Edad_Entrenador": 55
+},
+{
+  "_id": {
+    "$oid": "6558d990ed9513b91ee82d36"
+  },
+  "_id_Entrenador": 107,
+  "Nombre_Entrenador": "Paula Jimenez Castro",
+  "Edad_Entrenador": 38
+}]

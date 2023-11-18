@@ -1,0 +1,288 @@
+[{
+  "_id": {
+    "$oid": "65590172ed9513b91ee82da7"
+  },
+  "Posicion": 1,
+  "id_Jugador": 120,
+  "1_Ronda": "Gano",
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82daa"
+  },
+  "Posicion": 2,
+  "id_Jugador": 121,
+  "1_Ronda": "Gano",
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dab"
+  },
+  "Posicion": 3,
+  "id_Jugador": 138,
+  "1_Ronda": "Gano",
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dac"
+  },
+  "Posicion": 4,
+  "id_Jugador": 124,
+  "1_Ronda": "Gano",
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dad"
+  },
+  "Posicion": 5,
+  "id_Jugador": 140,
+  "1_Ronda": "Gano",
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dae"
+  },
+  "Posicion": 6,
+  "id_Jugador": 141,
+  "1_Ronda": "Gano",
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82daf"
+  },
+  "Posicion": 7,
+  "id_Jugador": 126,
+  "1_Ronda": "Gano",
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82db0"
+  },
+  "Posicion": 8,
+  "id_Jugador": 143,
+  "1_Ronda": "Gano",
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82db1"
+  },
+  "Posicion": 9,
+  "id_Jugador": 144,
+  "1_Ronda": "Gano",
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82db2"
+  },
+  "Posicion": 10,
+  "id_Jugador": 145,
+  "1_Ronda": "Gano",
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82db3"
+  },
+  "Posicion": 11,
+  "id_Jugador": 130,
+  "1_Ronda": "Gano",
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82db4"
+  },
+  "Posicion": 12,
+  "id_Jugador": 131,
+  "1_Ronda": "Gano",
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82db5"
+  },
+  "Posicion": 13,
+  "id_Jugador": 148,
+  "1_Ronda": "Gano",
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82db6"
+  },
+  "Posicion": 14,
+  "id_Jugador": 133,
+  "1_Ronda": "Gano",
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82db7"
+  },
+  "Posicion": 15,
+  "id_Jugador": 150,
+  "1_Ronda": "Gano",
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82db8"
+  },
+  "Posicion": 16,
+  "id_Jugador": 151,
+  "1_Ronda": "Gano",
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82db9"
+  },
+  "Posicion": 17,
+  "id_Jugador": 136,
+  "1_Ronda": "Perdio",
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dba"
+  },
+  "Posicion": 18,
+  "id_Jugador": 137,
+  "1_Ronda": "Perdio",
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dbb"
+  },
+  "Posicion": 19,
+  "id_Jugador": 122,
+  "1_Ronda": "Perdio",
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dbc"
+  },
+  "Posicion": 20,
+  "id_Jugador": 139,
+  "1_Ronda": "Perdio",
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dbd"
+  },
+  "Posicion": 21,
+  "id_Jugador": 124,
+  "1_Ronda": "Perdio",
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dbe"
+  },
+  "Posicion": 22,
+  "id_Jugador": 125,
+  "1_Ronda": "Perdio",
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dbf"
+  },
+  "Posicion": 23,
+  "id_Jugador": 142,
+  "1_Ronda": "Perdio",
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dc0"
+  },
+  "Posicion": 24,
+  "id_Jugador": 127,
+  "1_Ronda": "Perdio",
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dc1"
+  },
+  "Posicion": 25,
+  "id_Jugador": 128,
+  "1_Ronda": "Perdio",
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dc2"
+  },
+  "Posicion": 26,
+  "id_Jugador": 129,
+  "1_Ronda": "Perdio",
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dc3"
+  },
+  "Posicion": 27,
+  "id_Jugador": 146,
+  "1_Ronda": "Perdio",
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dc4"
+  },
+  "Posicion": 28,
+  "id_Jugador": 147,
+  "1_Ronda": "Perdio",
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dc5"
+  },
+  "Posicion": 29,
+  "id_Jugador": 132,
+  "1_Ronda": "Perdio",
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dc6"
+  },
+  "Posicion": 30,
+  "id_Jugador": 149,
+  "1_Ronda": "Perdio",
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dc7"
+  },
+  "Posicion": 31,
+  "id_Jugador": 134,
+  "1_Ronda": "Perdio",
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655901a1ed9513b91ee82dc8"
+  },
+  "Posicion": 32,
+  "id_Jugador": 135,
+  "1_Ronda": "Perdio",
+  "Puntos": 0
+}]
