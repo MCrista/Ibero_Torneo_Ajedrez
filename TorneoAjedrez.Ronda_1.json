@@ -1,176 +1,195 @@
-[{
-  "_id": {
-    "$oid": "6558fc6fed9513b91ee82d70"
+[
+  {
+    "_id": {
+      "$oid": "6558fc6fed9513b91ee82d70"
+    },
+    "Partida": 1,
+    "id_Jugador_1": 120,
+    "Nombre_Jugador_1": "Juan Martinez Garcia",
+    "id_Jugador_2": 136,
+    "Nombre_Jugador_2": "Alejandro Navarro Perez",
+    "id_Ganador": 120,
+    "id_Arbitro": 90
   },
-  "Partida": 1,
-  "id_Jugador_1": 120,
-  "Nombre_Jugador_1": "Juan Martinez Garcia",
-  "id_Jugador_2": 136,
-  "Nombre_Jugador_2": "Alejandro Navarro Perez",
-  "id_Ganador": 120
-},
-{
-  "_id": {
-    "$oid": "6558fc6fed9513b91ee82d71"
+  {
+    "_id": {
+      "$oid": "6558fc6fed9513b91ee82d71"
+    },
+    "Partida": 2,
+    "id_Jugador_1": 121,
+    "Nombre_Jugador_1": "Maria Rodriguez Lopez",
+    "id_Jugador_2": 137,
+    "Nombre_Jugador_2": "Carmen Flores Garcia",
+    "id_Ganador": 121,
+    "id_Arbitro": 91
   },
-  "Partida": 2,
-  "id_Jugador_1": 121,
-  "Nombre_Jugador_1": "Maria Rodriguez Lopez",
-  "id_Jugador_2": 137,
-  "Nombre_Jugador_2": "Carmen Flores Garcia",
-  "id_Ganador": 121
-},
-{
-  "_id": {
-    "$oid": "6558fc6fed9513b91ee82d72"
+  {
+    "_id": {
+      "$oid": "6558fc6fed9513b91ee82d72"
+    },
+    "Partida": 3,
+    "id_Jugador_1": 122,
+    "Nombre_Jugador_1": "Carlos Sanchez Perez",
+    "id_Jugador_2": 138,
+    "Nombre_Jugador_2": "Gabriel Ramirez Lopez",
+    "id_Ganador": 138,
+    "id_Arbitro": 92
   },
-  "Partida": 3,
-  "id_Jugador_1": 122,
-  "Nombre_Jugador_1": "Carlos Sanchez Perez",
-  "id_Jugador_2": 138,
-  "Nombre_Jugador_2": "Gabriel Ramirez Lopez",
-  "id_Ganador": 138
-},
-{
-  "_id": {
-    "$oid": "6558fc6fed9513b91ee82d73"
+  {
+    "_id": {
+      "$oid": "6558fc6fed9513b91ee82d73"
+    },
+    "Partida": 4,
+    "id_Jugador_1": 123,
+    "Nombre_Jugador_1": "Laura Gomez Martinez",
+    "id_Jugador_2": 139,
+    "Nombre_Jugador_2": "Raquel Herrera Martinez",
+    "id_Ganador": 123,
+    "id_Arbitro": 93
   },
-  "Partida": 4,
-  "id_Jugador_1": 123,
-  "Nombre_Jugador_1": "Laura Gomez Martinez",
-  "id_Jugador_2": 139,
-  "Nombre_Jugador_2": "Raquel Herrera Martinez",
-  "id_Ganador": 123
-},
-{
-  "_id": {
-    "$oid": "6558fc6fed9513b91ee82d74"
+  {
+    "_id": {
+      "$oid": "6558fc6fed9513b91ee82d74"
+    },
+    "Partida": 5,
+    "id_Jugador_1": 124,
+    "Nombre_Jugador_1": "Andres Fernandez Rodriguez",
+    "id_Jugador_2": 140,
+    "Nombre_Jugador_2": "Sergio Gutierrez Ortega",
+    "id_Ganador": 140,
+    "id_Arbitro": 94
   },
-  "Partida": 5,
-  "id_Jugador_1": 124,
-  "Nombre_Jugador_1": "Andres Fernandez Rodriguez",
-  "id_Jugador_2": 140,
-  "Nombre_Jugador_2": "Sergio Gutierrez Ortega",
-  "id_Ganador": 140
-},
-{
-  "_id": {
-    "$oid": "6558fc6fed9513b91ee82d75"
+
+ {
+    "_id": {
+      "$oid": "6558fc6fed9513b91ee82d75"
+    },
+    "Partida": 6,
+    "id_Jugador_1": 125,
+    "Nombre_Jugador_1": "Ana Perez Gonzalez",
+    "id_Jugador_2": 141,
+    "Nombre_Jugador_2": "Andrea Vazquez Herrera",
+    "id_Ganador": 141,
+    "id_Arbitro": 90
   },
-  "Partida": 6,
-  "id_Jugador_1": 125,
-  "Nombre_Jugador_1": "Ana Perez Gonzalez",
-  "id_Jugador_2": 141,
-  "Nombre_Jugador_2": "Andrea Vazquez Herrera",
-  "id_Ganador": 141
-},
-{
-  "_id": {
-    "$oid": "6558fc6fed9513b91ee82d76"
+  {
+    "_id": {
+      "$oid": "6558fc6fed9513b91ee82d76"
+    },
+    "Partida": 7,
+    "id_Jugador_1": 126,
+    "Nombre_Jugador_1": "Javier Ruiz Hernandez",
+    "id_Jugador_2": 142,
+    "Nombre_Jugador_2": "Oscar Gonzalez Morales",
+    "id_Ganador": 126,
+    "id_Arbitro": 91
   },
-  "Partida": 7,
-  "id_Jugador_1": 126,
-  "Nombre_Jugador_1": "Javier Ruiz Hernandez",
-  "id_Jugador_2": 142,
-  "Nombre_Jugador_2": "Oscar Gonzalez Morales",
-  "id_Ganador": 126
-},
-{
-  "_id": {
-    "$oid": "6558fc6fed9513b91ee82d77"
+  {
+    "_id": {
+      "$oid": "6558fc6fed9513b91ee82d77"
+    },
+    "Partida": 8,
+    "id_Jugador_1": 127,
+    "Nombre_Jugador_1": "Paula Diaz Sanchez",
+    "id_Jugador_2": 143,
+    "Nombre_Jugador_2": "Isabel Martinez Delgado",
+    "id_Ganador": 143,
+    "id_Arbitro": 92
   },
-  "Partida": 8,
-  "id_Jugador_1": 127,
-  "Nombre_Jugador_1": "Paula Diaz Sanchez",
-  "id_Jugador_2": 143,
-  "Nombre_Jugador_2": "Isabel Martinez Delgado",
-  "id_Ganador": 143
-},
-{
-  "_id": {
-    "$oid": "6558fc6fed9513b91ee82d78"
+  {
+    "_id": {
+      "$oid": "6558fc6fed9513b91ee82d78"
+    },
+    "Partida": 9,
+    "id_Jugador_1": 128,
+    "Nombre_Jugador_1": "Luis Torres Ramirez",
+    "id_Jugador_2": 144,
+    "Nombre_Jugador_2": "Francisco Reyes Suarez",
+    "id_Ganador": 144,
+    "id_Arbitro": 93
   },
-  "Partida": 9,
-  "id_Jugador_1": 128,
-  "Nombre_Jugador_1": "Luis Torres Ramirez",
-  "id_Jugador_2": 144,
-  "Nombre_Jugador_2": "Francisco Reyes Suarez",
-  "id_Ganador": 144
-},
-{
-  "_id": {
-    "$oid": "6558fc6fed9513b91ee82d79"
+  {
+    "_id": {
+      "$oid": "6558fc6fed9513b91ee82d79"
+    },
+    "Partida": 10,
+    "id_Jugador_1": 129,
+    "Nombre_Jugador_1": "Sofia Vargas Torres",
+    "id_Jugador_2": 145,
+    "Nombre_Jugador_2": "Natalia Torres Cordero",
+    "id_Ganador": 145,
+    "id_Arbitro": 94
   },
-  "Partida": 10,
-  "id_Jugador_1": 129,
-  "Nombre_Jugador_1": "Sofia Vargas Torres",
-  "id_Jugador_2": 145,
-  "Nombre_Jugador_2": "Natalia Torres Cordero",
-  "id_Ganador": 145
-},
-{
-  "_id": {
-    "$oid": "6558fc6fed9513b91ee82d7a"
+  {
+    "_id": {
+      "$oid": "6558fc6fed9513b91ee82d7a"
+    },
+    "Partida": 11,
+    "id_Jugador_1": 130,
+    "Nombre_Jugador_1": "Diego Jimenez Diaz",
+    "id_Jugador_2": 146,
+    "Nombre_Jugador_2": "Emilio Garcia Vega",
+    "id_Ganador": 130,
+    "id_Arbitro": 90
   },
-  "Partida": 11,
-  "id_Jugador_1": 130,
-  "Nombre_Jugador_1": "Diego Jimenez Diaz",
-  "id_Jugador_2": 146,
-  "Nombre_Jugador_2": "Emilio Garcia Vega",
-  "id_Ganador": 130
-},
-{
-  "_id": {
-    "$oid": "6558fc6fed9513b91ee82d7b"
+  {
+    "_id": {
+      "$oid": "6558fc6fed9513b91ee82d7b"
+    },
+    "Partida": 12,
+    "id_Jugador_1": 131,
+    "Nombre_Jugador_1": "Marta Moreno Ruiz",
+    "id_Jugador_2": 147,
+    "Nombre_Jugador_2": "Patricia Ruiz Rios",
+    "id_Ganador": 131,
+    "id_Arbitro": 91
   },
-  "Partida": 12,
-  "id_Jugador_1": 131,
-  "Nombre_Jugador_1": "Marta Moreno Ruiz",
-  "id_Jugador_2": 147,
-  "Nombre_Jugador_2": "Patricia Ruiz Rios",
-  "id_Ganador": 131
-},
-{
-  "_id": {
-    "$oid": "6558fc6fed9513b91ee82d7c"
+  {
+    "_id": {
+      "$oid": "6558fc6fed9513b91ee82d7c"
+    },
+    "Partida": 13,
+    "id_Jugador_1": 132,
+    "Nombre_Jugador_1": "Ricardo Lopez Vazquez",
+    "id_Jugador_2": 148,
+    "Nombre_Jugador_2": "Manuel Sanchez Reyes",
+    "id_Ganador": 148,
+    "id_Arbitro": 92
   },
-  "Partida": 13,
-  "id_Jugador_1": 132,
-  "Nombre_Jugador_1": "Ricardo Lopez Vazquez",
-  "id_Jugador_2": 148,
-  "Nombre_Jugador_2": "Manuel Sanchez Reyes",
-  "id_Ganador": 148
-},
-{
-  "_id": {
-    "$oid": "6558fc6fed9513b91ee82d7d"
+  {
+    "_id": {
+      "$oid": "6558fc6fed9513b91ee82d7d"
+    },
+    "Partida": 14,
+    "id_Jugador_1": 133,
+    "Nombre_Jugador_1": "Elena Santos Perez",
+    "id_Jugador_2": 149,
+    "Nombre_Jugador_2": "Diana Perez Mendoza",
+    "id_Ganador": 133,
+    "id_Arbitro": 93
   },
-  "Partida": 14,
-  "id_Jugador_1": 133,
-  "Nombre_Jugador_1": "Elena Santos Perez",
-  "id_Jugador_2": 149,
-  "Nombre_Jugador_2": "Diana Perez Mendoza",
-  "id_Ganador": 133
-},
-{
-  "_id": {
-    "$oid": "6558fc6fed9513b91ee82d7e"
+  {
+    "_id": {
+      "$oid": "6558fc6fed9513b91ee82d7e"
+    },
+    "Partida": 15,
+    "id_Jugador_1": 134,
+    "Nombre_Jugador_1": "Pedro Morales Jimenez",
+    "id_Jugador_2": 150,
+    "Nombre_Jugador_2": "Guillermo Castro Fernandez",
+    "id_Ganador": 150,
+    "id_Arbitro": 94
   },
-  "Partida": 15,
-  "id_Jugador_1": 134,
-  "Nombre_Jugador_1": "Pedro Morales Jimenez",
-  "id_Jugador_2": 150,
-  "Nombre_Jugador_2": "Guillermo Castro Fernandez",
-  "id_Ganador": 150
-},
-{
-  "_id": {
-    "$oid": "6558fc6fed9513b91ee82d7f"
-  },
-  "Partida": 16,
-  "id_Jugador_1": 135,
-  "Nombre_Jugador_1": "Lucia Castro Gomez",
-  "id_Jugador_2": 151,
-  "Nombre_Jugador_2": "Valeria Fernandez Alvarez",
-  "id_Ganador": 151
-}]
+  {
+    "_id": {
+      "$oid": "6558fc6fed9513b91ee82d7f"
+    },
+    "Partida": 16,
+    "id_Jugador_1": 135,
+    "Nombre_Jugador_1": "Lucia Castro Gomez",
+    "id_Jugador_2": 151,
+    "Nombre_Jugador_2": "Valeria Fernandez Alvarez",
+    "id_Ganador": 151,
+    "id_Arbitro": 90
+  }
+]
